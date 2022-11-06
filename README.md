@@ -1,6 +1,3 @@
-24 hour MLH Hackathon project
-
-
 ## About The Project
 ![Landing-page](https://user-images.githubusercontent.com/41134301/200157504-68ed9bac-8e23-47d7-9bad-2071014a9a22.png)
 
