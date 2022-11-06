@@ -38,3 +38,15 @@ To get a local copy up and running follow these simple steps.
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+#### Divided into two sections
+
+- Dashboard
+- Extension
+
+Dashboard:
+![Group 7 (2)](https://user-images.githubusercontent.com/41134301/200157685-12e3f1f6-1b3c-4b84-9d1f-64486686690c.png)
+
+
+Extension:
+![Group 6 (1)](https://user-images.githubusercontent.com/41134301/200157700-c72e4095-e5fe-4306-9edd-8d9141202162.png)
